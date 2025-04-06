@@ -1,0 +1,54 @@
+{
+    "children": [
+        {
+            "description": "Первая планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Меркурий"
+        },
+        {
+            "description": "Вторая планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Венера"
+        },
+        {
+            "children": [
+                {
+                    "description": "Третья планета от солнца",
+                    "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/moon.png",
+                    "name": "Луна"
+                }
+            ],
+            "description": "Третья планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Земля"
+        },
+        {
+            "description": "Четвертая планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Марс"
+        },
+        {
+            "description": "Пятая планета от солнца что еще ",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/jupiter.png",
+            "name": "Юпитер"
+        },
+        {
+            "description": "Шестая планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Сатурн"
+        },
+        {
+            "description": "Седьмия планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Уран"
+        },
+        {
+            "description": "Восьмая планета от солнца",
+            "icon": "/Users/nikitamakhov/Documents/qtPr4/pr4Ready/icons/unknown planet.png",
+            "name": "Нептун"
+        }
+    ],
+    "description": "Система с Солнцем в центре",
+    "icon": "/Users/nikitamakhov/Documents/qt/TreePR4/ShablonPodPr4/icons/sun.png",
+    "name": "Солнечная система"
+}

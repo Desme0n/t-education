@@ -1,0 +1,138 @@
+{
+    "directions": [
+        {
+            "groups": [
+                {
+                    "name": "CS-101",
+                    "students": [
+                        {
+                            "full_name": "Ivanov Ivan Ivanovich",
+                            "student_id": "CS101-001"
+                        },
+                        {
+                            "full_name": "Petrov Petr Petrovich",
+                            "student_id": "CS101-002"
+                        },
+                        {
+                            "full_name": "Orlov Oleg Olegovich",
+                            "student_id": "CS101-004"
+                        },
+                        {
+                            "full_name": "Nikita",
+                            "student_id": "dff"
+                        },
+                        {
+                            "full_name": "fdfdf",
+                            "student_id": "dddd"
+                        }
+                    ]
+                },
+                {
+                    "name": "CS-102",
+                    "students": [
+                        {
+                            "full_name": "Sidorov Sidor Sidorovich",
+                            "student_id": "CS102-001"
+                        },
+                        {
+                            "full_name": "Fedorov Fedor Fedorovich",
+                            "student_id": "CS102-002"
+                        },
+                        {
+                            "full_name": "Kuznetsov Kirill Konstantinovich",
+                            "student_id": "CS102-003"
+                        },
+                        {
+                            "full_name": "Morozov Maksim Maksimovich",
+                            "student_id": "CS102-004"
+                        }
+                    ]
+                }
+            ],
+            "name": "Computer Science"
+        },
+        {
+            "groups": [
+                {
+                    "name": "IT-201",
+                    "students": [
+                        {
+                            "full_name": "Nikolaev Nikolay Nikolaevich",
+                            "student_id": "IT201-001"
+                        },
+                        {
+                            "full_name": "Alexeev Alexey Alexeevich",
+                            "student_id": "IT201-002"
+                        },
+                        {
+                            "full_name": "Zhukov Zakhar Zakharovich",
+                            "student_id": "IT201-003"
+                        },
+                        {
+                            "full_name": "Lebedev Leonid Leonidovich",
+                            "student_id": "IT201-004"
+                        }
+                    ]
+                },
+                {
+                    "name": "IT-202",
+                    "students": [
+                        {
+                            "full_name": "Sergeev Sergey Sergeevich",
+                            "student_id": "IT202-001"
+                        },
+                        {
+                            "full_name": "Vasilev Vasily Vasilevich",
+                            "student_id": "IT202-002"
+                        },
+                        {
+                            "full_name": "Gavrilov Gennadiy Gennadievich",
+                            "student_id": "IT202-003"
+                        },
+                        {
+                            "full_name": "Bogdanov Boris Borisovich",
+                            "student_id": "IT202-004"
+                        }
+                    ]
+                }
+            ],
+            "name": "Information Technology"
+        },
+        {
+            "groups": [
+                {
+                    "name": "O726B",
+                    "students": [
+                        {
+                            "full_name": "Babkin",
+                            "student_id": "2"
+                        },
+                        {
+                            "full_name": "Makhov",
+                            "student_id": "10"
+                        },
+                        {
+                            "full_name": "Ponomarev",
+                            "student_id": "15"
+                        },
+                        {
+                            "full_name": "Hardikov",
+                            "student_id": "18"
+                        }
+                    ]
+                },
+                {
+                    "name": "new group",
+                    "students": [
+                    ]
+                }
+            ],
+            "name": "Programm engineering"
+        },
+        {
+            "groups": [
+            ],
+            "name": "hello"
+        }
+    ]
+}
